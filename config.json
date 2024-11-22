@@ -1,0 +1,6 @@
+{
+    "OpenAI_bearer": "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",
+    "OpenAI_endpoint": "https://api.openai.com/v1/chat/completions",
+    "Max_retries": "3",
+    "Groq_bearer": "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"
+}
